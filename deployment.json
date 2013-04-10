@@ -1,4 +1,4 @@
 {
-	"strategy": "git+ssh://git@github.com:apphouse-sap/foo.git",
+	"strategy": "git://github.com/apphouse-sap/foo.git",
 	"name": "foo"
 }
