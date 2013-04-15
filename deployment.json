@@ -1,5 +1,5 @@
 {
-	"strategy": "https://github.com/apphouse-sap/hanaxs.git",
+	"strategy": "git@github.com:apphouse-sap/hanaxs.git",
 	"user": "system",
 	"pass": "manager"
 }
