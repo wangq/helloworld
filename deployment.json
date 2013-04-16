@@ -1,6 +1,6 @@
 {
 	"strategy": "git+ssh://git@github.com:apphouse-sap/hanaxs.git",
-	"host": "uvo11xgnfso6pgomda5.vm.cld.sr",
+	"host": "uvo11xgnfso6pgomda5.vm.cld.sr:30015",
 	"user": "system",
 	"pass": "manager",
 	"root": "foo"
