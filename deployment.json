@@ -1,6 +1,6 @@
 {
 	"strategy": "git+ssh://git@github.com:apphouse-sap/hanaxs.git",
 	"host": "ipa-canvas.env.cloudshare.com:443",
-	"user": "system",
+	"user": "systemmmmmmm",
 	"pass": "manager"
 }
