@@ -3,4 +3,5 @@
 	"host": "ipa-canvas.env.cloudshare.com:443",
 	"user": "system",
 	"pass": "manager"
+	"root": "foo"
 }
