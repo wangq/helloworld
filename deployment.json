@@ -1,5 +1,5 @@
 {
 	"strategy": "http://ec2-54-235-174-123.compute-1.amazonaws.com/hanaxs.tar.gz",
-	"host": "uvo11xgnfso6pgomda5.vm.cld.sr:30015",
+	"host": "54.236.189.206:30015",
 	"root": "foo"
 }
