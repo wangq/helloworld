@@ -1,5 +1,5 @@
 {
         "strategy": "hanaxs",
-	"host": "ec2-54-236-189-206.compute-1.amazonaws.com:30015",
+	"host": "hostname:30015",
 	"root": "foo"
 }
