@@ -25,6 +25,6 @@ From then on every commit to your repository triggers deployment to the HANA ins
 
 Error Handling
 --------------
-In case deployment does not seem to work, simply copy and paste we hook URL into browser.
+In case deployment does not seem to work, simply copy and paste WebHook URL into browser.
 You should see the error message.
 For techical reasons the messages cannot be shown in Github
