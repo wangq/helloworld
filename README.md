@@ -4,7 +4,9 @@ Usage
 -----
 After forking please maintain
 - deployment.json
-  --> change hostname, enter URL of your HANA instance
+
+change hostname, enter URL of your HANA instance
+
 
 - setup service Hook as WebHook URL
 
@@ -18,6 +20,7 @@ example: http://system:manager@dshell.saphana.com:1237/?repo=https://github.com/
 
 
 From then on every commit to your repository triggers deployment to the HANA instance
+
 
 
 Error Handling
