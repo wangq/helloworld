@@ -7,7 +7,7 @@ After forking please maintain
   --> change hostname, enter URL of your HANA instance
 
 - setup service Hook as WebHook URL
-  --> http://'<username'>:'<password'>@dshell.saphana.com:1237/?repo=https://github.com/<gituser>/helloworld
+  --> http://username:password@dshell.saphana.com:1237/?repo=https://github.com/gituser/helloworld
     change username as your HANA user name
     change password as your HANA password
     change gituser to your Github user name
