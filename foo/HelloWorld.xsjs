@@ -1,2 +1,2 @@
-$.response.setBody("Hello Saphire");
+$.response.setBody("Hello SAPphire");
  
