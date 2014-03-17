@@ -1,6 +1,5 @@
 {
     "strategy": "hanaxs",
 	"host": "hanatrial.ondemand.com:30015",
-	"root": "foo",
-	"pattern" : "myhanaxs"
+	"root": "foo"
 }
