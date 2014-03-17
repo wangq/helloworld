@@ -1,6 +1,6 @@
 {
     "strategy": "hanaxs",
-	"host": "s5hanaxs.hanatrial.ondemand.com:30015",
+	"host": "hanatrial.ondemand.com:30015",
 	"root": "myhanaxs",
 	"pattern" : "helloworld"
 }
