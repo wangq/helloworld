@@ -2,5 +2,5 @@
     "strategy": "hanaxs",
 	"host": "hanatrial.ondemand.com:30015",
 	"root": "myhanaxs",
-	"pattern" : "hello"
+	"pattern" : "helloworld"
 }
